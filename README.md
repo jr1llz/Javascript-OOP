@@ -1,2 +1,4 @@
 # Javascript-OOP
-Ngumpulin OOP
+<i>Ngumpulin OOP</i>
+
+![baiklh](img/baiklh.jpg)
