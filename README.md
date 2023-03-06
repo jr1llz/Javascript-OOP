@@ -1,4 +1,5 @@
 # Javascript-OOP
 <i>Ngumpulin OOP</i>
 
-![baiklh](img/baiklh.jpg)
+# <b>Pa Jumadi Bilek:</b>
+![baiklh](img/baiklh.jpg)  ![makasih](img/siap-masbro.jpg)
