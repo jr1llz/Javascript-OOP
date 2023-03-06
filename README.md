@@ -1,5 +1,7 @@
 # Javascript-OOP
-<b><i>Ngumpulin OOP</i></b>
+<br>
 
-# <b>Pa Jumadi Bilek:</b>
+# <i>Ngumpulin OOP</i>
+
+<b>Pa Jumadi Bilek:</b>
 ![makasih](img/siap-masbro.jpg)
